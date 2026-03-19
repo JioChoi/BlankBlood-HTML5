@@ -1,0 +1,14 @@
+sprite_delete(global.SprEBoss_Part[0]);
+sprite_delete(global.SprEBoss_Part[1]);
+sprite_delete(global.SprEBoss_Part[2]);
+sprite_delete(global.SprEBoss_Part[3]);
+sprite_delete(global.SprEBoss_Part[4]);
+sprite_delete(global.SprEBoss_Part[5]);
+sprite_delete(global.SprEBoss_Part[6]);
+sprite_delete(global.SprEBoss_Part[7]);
+sprite_delete(global.SprEBoss_Part[8]);
+sprite_delete(global.SprEBoss_Part[9]);
+sound_delete(global.SndBoss[0]);
+sound_delete(global.SndBoss[1]);
+sound_delete(global.SndBoss[2]);
+sound_delete(global.SndBoss[3]);

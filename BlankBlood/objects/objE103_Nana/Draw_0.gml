@@ -1,0 +1,212 @@
+var __b__;
+__b__ = action_if_variable(mode, "start", 0);
+if __b__
+{
+{
+	if(air){
+		if(vspeed < 0){
+				image_speed = 0.3;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-6,y-12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpU_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+6,y-12,1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpU_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+		}else{
+				image_speed = 0.3;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-6,y-12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpD_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+6,y-12,1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpD_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+		}
+	}else{
+		image_speed = 0.3;
+		if(dir == 0){
+			draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+7,y+12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+			draw_sprite_ext(global.SprP_crouch_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+		}else{
+			draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-7,y+12,1,image_yscale,gun_dir,image_blend,image_alpha);
+			draw_sprite_ext(global.SprP_crouch_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+		}
+	}
+}
+
+
+}
+__b__ = action_if_variable(mode, "wait", 0);
+if __b__
+{
+{
+	if(air){
+		if(vspeed < 0){
+				image_speed = 0.3;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-6,y-12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpU_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+6,y-12,1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpU_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+		}else{
+				image_speed = 0.3;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-6,y-12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpD_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+6,y-12,1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_jumpD_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+		}
+	}else{
+		if(!move){
+			if(crouch){
+				image_speed = 0.3;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+7,y+12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_crouch_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-7,y+12,1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_crouch_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+			}else{
+				image_speed = 0.25;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x,y-12+sin(image_index),-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_stand_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x,y-12+sin(image_index),1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_stand_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+			}
+		}else{
+			if(dash){
+				image_speed = 0.35;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-5,y-6+sin(image_index),-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_run_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+5,y-6+sin(image_index),1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_run_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+			}else{
+				image_speed = 0.3;
+				if(dir == 0){
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-5,y-6+sin(image_index),-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_walk_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+				}else{
+					draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+5,y-6+sin(image_index),1,image_yscale,gun_dir,image_blend,image_alpha);
+					draw_sprite_ext(global.SprP_walk_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+				}
+			}
+		}
+	}
+}
+
+
+}
+__b__ = action_if_variable(mode, "attack", 0);
+if __b__
+{
+{
+	switch (motion)
+	{
+	case 1:
+		if(air){
+			if(vspeed < 0){
+					image_speed = 0.3;
+					if(dir == 0){
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-6,y-12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_jumpU_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+					}else{
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+6,y-12,1,image_yscale,gun_dir,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_jumpU_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+					}
+			}else{
+					image_speed = 0.3;
+					if(dir == 0){
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-6,y-12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_jumpD_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+					}else{
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+6,y-12,1,image_yscale,gun_dir,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_jumpD_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+					}
+			}
+		}else{
+			if(!move){
+				if(crouch){
+					image_speed = 0.3;
+					if(dir == 0){
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+7,y+12,-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_crouch_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+					}else{
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-7,y+12,1,image_yscale,gun_dir,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_crouch_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+					}
+				}else{
+					image_speed = 0.25;
+					if(dir == 0){
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x,y-12+sin(image_index),-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_stand_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+					}else{
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x,y-12+sin(image_index),1,image_yscale,gun_dir,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_stand_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+					}
+				}
+			}else{
+				if(dash){
+					image_speed = 0.35;
+					if(dir == 0){
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-5,y-6+sin(image_index),-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_run_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+					}else{
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+5,y-6+sin(image_index),1,image_yscale,gun_dir,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_run_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+					}
+				}else{
+					image_speed = 0.3;
+					if(dir == 0){
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x-5,y-6+sin(image_index),-1,image_yscale,gun_dir+180,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_walk_1[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+					}else{
+						draw_sprite_ext(global.SprP_Atk_1[1],gun_index,x+5,y-6+sin(image_index),1,image_yscale,gun_dir,image_blend,image_alpha);
+						draw_sprite_ext(global.SprP_walk_1[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+					}
+				}
+			}
+		}
+		break;
+		case 2:
+		image_speed = 0.3;
+		if(dir == 0) draw_sprite_ext(global.SprP_Atk_2[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+		else draw_sprite_ext(global.SprP_Atk_2[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+		break;
+	}
+}
+
+
+}
+__b__ = action_if_variable(mode, "damage", 0);
+if __b__
+{
+{
+	switch (motion)
+	{
+	case 11:
+		image_speed = 0.5;
+		if(dir == 0) draw_sprite_ext(global.SprP_Damage_11[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+		else draw_sprite_ext(global.SprP_Damage_11[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+		break;
+	case 21:
+		image_speed = 0.5;
+		if(dir == 0) draw_sprite_ext(global.SprP_Damage_21[1],-1,x,y,1,image_yscale,image_angle,image_blend,image_alpha);
+		else draw_sprite_ext(global.SprP_Damage_21[1],-1,x,y,-1,image_yscale,image_angle,image_blend,image_alpha);
+		break;
+	}
+}
+}
+move = 0;
+dash = 0;

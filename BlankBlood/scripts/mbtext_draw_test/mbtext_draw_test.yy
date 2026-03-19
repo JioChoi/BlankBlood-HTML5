@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mbtext_draw_test",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mbtext_draw_test",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

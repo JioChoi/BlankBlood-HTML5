@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bGM_play",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bGM_play",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VicFacehug",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VicFacehug",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

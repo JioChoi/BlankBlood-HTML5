@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"voice_play2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"voice_play2",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

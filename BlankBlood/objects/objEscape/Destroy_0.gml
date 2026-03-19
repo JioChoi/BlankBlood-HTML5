@@ -1,0 +1,10 @@
+sprite_delete(global.Spr_Bike[0]);
+sprite_delete(global.Spr_Bike[1]);
+sprite_delete(global.Spr_Bike[2]);
+sprite_delete(global.Spr_Bike[3]);
+sprite_delete(global.Spr_Gun[0]);
+sprite_delete(global.Spr_Bike[1]);
+sprite_delete(global.Spr_Bike[2]);
+sprite_delete(global.Spr_Bike[3]);
+sound_delete(global.SndBoss[0]);
+sound_delete(global.SndBoss[1]);

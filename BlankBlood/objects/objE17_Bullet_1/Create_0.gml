@@ -1,0 +1,25 @@
+{
+	kind = 12;
+	weight		 = 1000;	//�d��
+	HP		 = 1;	//�̗�
+	preHP		 = HP;
+	point		 = 10;	//���_
+	walk		 = 1+random(2);	//��s�X�s�[�h
+	run		 = 4random(2);	//���s�X�s�[�h
+	/*----------*/
+	flag = 0;
+	step = 0;
+	hspd = 0;		//���������X�s�[�h
+	bind = 0;			//�S���t���O
+	move= 0;		//�ړ����t���O
+	dir = 0;			//0-��		1-�E
+	air = 0;			//0-�n��	1-��
+
+	image_alpha = random(0.5);
+	image_xscale = random(2);
+	image_yscale = image_xscale;
+	image_speed = 1+random(1);
+}
+
+/* */
+/*  */

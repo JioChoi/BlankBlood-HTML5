@@ -1,0 +1,1575 @@
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Effect\Effect.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Effect\Effect.gml - 1: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Effect\Effect.gml - 1: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Effect\Effect.gml - 3: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Effect\Effect.gml - 3: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Effect\Effect.gml - 3: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Effect\Effect.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\mbtext_draw\mbtext_draw.gml
+String not found: ConversionLog_ConvertedString 34 "\\n" "\\\\n"
+String not found: ConversionLog_ConvertedString 35 "\n" "\\n"
+String not found: ConversionLog_ConvertedString 35 "\n" "\\n"
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\mbtext_draw_test\mbtext_draw_test.gml
+String not found: ConversionLog_ConvertedString 52 "\\n" "\\\\n"
+String not found: ConversionLog_ConvertedString 53 "\n" "\\n"
+String not found: ConversionLog_ConvertedString 53 "\n" "\\n"
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 13: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 13: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 18: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 19: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 19: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 20: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 20: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 21: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 21: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 23: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 23: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 25: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 25: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 26: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 26: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 27: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 27: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 28: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 28: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 29: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 29: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml - 30: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\Particle\Particle.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 26: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 26: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 26: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 27: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 27: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 28: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 28: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 29: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 29: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 29: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 30: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 30: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 31: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 38: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 49: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 56: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 68: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml - 80: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\HandGun\HandGun.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 21: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 21: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 21: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 23: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 23: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 24: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 24: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 25: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 25: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 25: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 26: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 26: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 27: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 34: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 48: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 60: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml - 72: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\MachineGun\MachineGun.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 5: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 5: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 5: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 6: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 6: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 36: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 36: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 36: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 37: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 37: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 38: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 38: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml - 39: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\ShotGun\ShotGun.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\in_screen\in_screen.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 7: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 7: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 8: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 8: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 10: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 12: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 12: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 14: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 16: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 24: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 26: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 26: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 28: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 32: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 32: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml - 34: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\scripts\change_wep_R\change_wep_R.gml
+
+GameMaker Studio 1 font texture has been backed up at C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\fonts\Chinecaption\Chinecaption.gms1.png
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objLoading\Step_0.gml
+String not found: ConversionLog_ConvertedString 612 "�����O�\�[�h" "�����O�\\�[�h"
+String not found: ConversionLog_ConvertedString 653 "���m�̂Ƃ��鍑�Ŏg�p����Ă��鍂�i���̓����B�܂�ʂ�̂�����Ă��܂����E�E�E�B\n���q�����\" "���m�̂Ƃ��鍑�Ŏg�p����Ă��鍂�i���̓����B�܂�ʂ�̂�����Ă��܂����E�E�E�B\\n���q�����\\"
+String not found: ConversionLog_ConvertedString 669 "�̂��l���g����B���ė��H�p�[�e�B�[�ɏo�Ȃ���Ƃ��Ɏg�������ȉ��ʁB\n�߂炦��ꂽ���ア�o���ɔ���\n�̂��l�����̖��̎�E�E�Ƃ��H" "�̂��l���g����B���ė��H�p�[�e�B�[�ɏo�Ȃ���Ƃ��Ɏg�������ȉ��ʁB\\n�߂炦��ꂽ���ア�o���ɔ���\\n�̂��l�����̖��̎�E�E�Ƃ��H"
+String not found: ConversionLog_ConvertedString 689 "�����͍���\n�ǂ��܂ł�ӎU�L����\n�����ۂ���̒n�}�ł�\n�l�ɂ�����Ⴛ�ꎩ�̂���\n\n�i�Ȍ�|�[�Y���ɒn�}���\������܂��j" "�����͍���\\n�ǂ��܂ł�ӎU�L����\\n�����ۂ���̒n�}�ł�\\n�l�ɂ�����Ⴛ�ꎩ�̂���\\n\\n�i�Ȍ�|�[�Y���ɒn�}���\\������܂��j"
+String not found: ConversionLog_ConvertedString 693 "���ۂ͂�����ւ�̓����Ƃ��̊p�Ȃ񂾂낤����\n�Z���u�ǂ�̓��A���Ƃ����Ƃ����M����" "���ۂ͂�����ւ�̓����Ƃ��̊p�Ȃ񂾂낤����\\n�Z���u�ǂ�̓��A���Ƃ����Ƃ����M����"
+String not found: ConversionLog_ConvertedString 701 "�����s�v�c�ȗ͂���߂��Ă���\n�悤�Ȃ��Ȃ��悤�Ȃ��ӂ��B\n������B�ɂ݂�����I�ȗ͂ł�����\n�L�p�������Ȃ����c�O�Ȃ��疳���B" "�����s�v�c�ȗ͂���߂��Ă���\\n�悤�Ȃ��Ȃ��悤�Ȃ��ӂ��B\\n������B�ɂ݂�����I�ȗ͂ł�����\\n�L�p�������Ȃ����c�O�Ȃ��疳���B"
+String not found: ConversionLog_ConvertedString 717 "���ꂢ�ȃs�A�X�B���ǌ���J����̂��|���̂ŕt�������Ȃ��B\n����ȂƂ���ɂ���Ȃ�āA�N�̂�̂��낤�E�E�E�B" "���ꂢ�ȃs�A�X�B���ǌ���J����̂��|���̂ŕt�������Ȃ��B\\n����ȂƂ���ɂ���Ȃ�āA�N�̂�̂��낤�E�E�E�B"
+String not found: ConversionLog_ConvertedString 721 "�����~��\n--------------------------------\n�ŋ��̐��������ɂ͂ǂ�����΂����̂��B\n�Ȃ�čl���邩��_���Ȃ񂾁B\n��苭��������������R�s�[����΂����B" "�����~��\\n--------------------------------\\n�ŋ��̐��������ɂ͂ǂ�����΂����̂��B\\n�Ȃ�čl���邩��_���Ȃ񂾁B\\n��苭��������������R�s�[����΂����B"
+String not found: ConversionLog_ConvertedString 725 "�W�߂Ċ��ł����΃G���A�̓r������n�߂�ꂽ�肷��񂾂낤��\n���X���ʂȃI�����[�������Ă�������\n�I�����[�������Ă��̓��̃i���o�[�����̂��Ƃ���ˁB" "�W�߂Ċ��ł����΃G���A�̓r������n�߂�ꂽ�肷��񂾂낤��\\n���X���ʂȃI�����[�������Ă�������\\n�I�����[�������Ă��̓��̃i���o�[�����̂��Ƃ���ˁB"
+String not found: ConversionLog_ConvertedString 737 "���̃p�C�i�|�[�B�����Ďg�p����B\n���q�����\" "���̃p�C�i�|�[�B�����Ďg�p����B\\n���q�����\\"
+String not found: ConversionLog_ConvertedString 741 "�萔�ŏ����B�Ƃɂ����؂�܂���B\n���q�����\" "�萔�ŏ����B�Ƃɂ����؂�܂���B\\n���q�����\\"
+String not found: ConversionLog_ConvertedString 745 "�ꌂ�K�E�ߐڏe�B���̃L���C�Ȋ��ӂ��Ƃ΂��Ă��܂��B\n�ށX�����\" "�ꌂ�K�E�ߐڏe�B���̃L���C�Ȋ��ӂ��Ƃ΂��Ă��܂��B\\n�ށX�����\\"
+String not found: ConversionLog_ConvertedString 749 "�e���̓p���[�ł��B������Ζ�̖��ʌ����B\n�ށX�����\" "�e���̓p���[�ł��B������Ζ�̖��ʌ����B\\n�ށX�����\\"
+String not found: ConversionLog_ConvertedString 753 "�Ȃ�炩�̔��J����J�[�h�L�[�B\n�ꏏ�ɂ����Ă���T�u�}�V���K����\n���肪���������������B\n�����������͎g�����R�͂Ȃ��B\n�T�u�}�V���K���ɂ͉����o���_�i���ۂ�\n�����Ə����ꂽ�z�������Ă���B" "�Ȃ�炩�̔��J����J�[�h�L�[�B\\n�ꏏ�ɂ����Ă���T�u�}�V���K����\\n���肪���������������B\\n�����������͎g�����R�͂Ȃ��B\\n�T�u�}�V���K���ɂ͉����o���_�i���ۂ�\\n�����Ə����ꂽ�z�������Ă���B"
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml - 6: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml - 6: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml - 95: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml - 100: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml - 158: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml - 165: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml - 170: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objNormal\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool\Create_0.gml
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool\Step_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_xview[0]=default_x-factor+random(factor*2) -> __view_set( e__VW.XView, 0, default_x-factor+random(factor*2) )
+Converted builtin - line 26: view_xview[0]=default_x -> __view_set( e__VW.XView, 0, default_x )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0]=default_y-factor+random(factor*2) -> __view_set( e__VW.YView, 0, default_y-factor+random(factor*2) )
+Converted builtin - line 26: view_yview[0]=default_y -> __view_set( e__VW.YView, 0, default_y )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_xview[0] += (new_view_xview - __view_get( e__VW.XView, 0 )) / 6 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + ((new_view_xview - __view_get( e__VW.XView, 0 )) / 6) )
+Converted builtin - line 7: view_yview[0] += (new_view_yview - __view_get( e__VW.YView, 0 )) / 6 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + ((new_view_yview - __view_get( e__VW.YView, 0 )) / 6) )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool\Other_4.gml
+Converted builtin - line 1: background_blend[0] = background_color -> __background_set( e__BG.Blend, 0, background_color )
+Converted builtin - line 1: background_color -> __background_get_colour( )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool\Draw_0.gml
+Converted builtin - line 49: background_x = view_xview/5 -> __background_set( e__BG.X, 0, view_xview/5 )
+Converted builtin - line 50: background_y = view_yview/5 -> __background_set( e__BG.Y, 0, view_yview/5 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 39: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 40: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 47: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 39: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 40: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 47: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 49: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 50: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_J\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_J\Step_0.gml - 1: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_J\Step_0.gml - 1: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_J\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 48: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 48: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 48: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 49: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 49: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 50: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 50: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 51: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 54: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 155: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 159: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 186: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 196: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 197: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 200: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 200: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 210: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 211: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 213: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 219: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 219: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 219: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 220: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 220: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 221: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 221: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml - 222: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDead\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml - 1: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml - 1: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml - 6: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml - 6: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml - 6: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml - 10: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml - 71: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBind\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 15: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 15: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 16: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 16: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 19: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 21: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 21: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 21: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml - 24: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE05_Atk_1\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 15: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 15: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 16: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 16: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 19: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 21: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 21: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 21: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml - 24: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE12_Atk_1\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 7: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 8: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 8: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 8: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 9: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 9: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 11: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 11: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 11: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 12: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 12: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml - 23: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE0a_Normal\Alarm_11.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSavePoint\Draw_0.gml
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 5: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 5: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 6: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 6: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 6: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 7: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 8: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 8: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 10: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 12: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 12: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 12: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 13: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 13: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 14: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 14: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml - 16: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE13_Atk_1\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 15: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 15: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 16: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 16: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 20: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 22: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 23: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 23: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 24: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 24: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml - 26: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE15_Atk_1\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objOpenMsg\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 18: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 18: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objItemCollection\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objItemCollection\Step_0.gml - 4: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objItemCollection\Step_0.gml - 4: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objItemCollection\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objItemCollection\Draw_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 21: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 21: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objPause\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 27: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 23: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 27: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 4: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 4: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 4: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 6: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 6: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 10: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml - 14: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Reload\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 12: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 12: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 12: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 13: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 13: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 37: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 37: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml - 47: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet\Alarm_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objFlash\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE56_Normal\Step_0.gml
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE56_Normal\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objRecovery\Draw_0.gml
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Normal\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml - 36: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml - 36: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml - 36: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml - 37: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml - 37: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml - 39: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml - 42: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj03\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj04\Step_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj04\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_7\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_7\Step_0.gml - 23: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_7\Step_0.gml - 23: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_7\Step_0.gml - 51: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_7\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj08\Step_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Obj08\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_10\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_10\Step_0.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_10\Step_0.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_10\Step_0.gml - 78: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE101_Part_10\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objKeyCon\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objKeyCon\Step_0.gml - 5: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objKeyCon\Step_0.gml - 5: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objKeyCon\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objKeyCon\Draw_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 15: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 15: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 16: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 16: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 20: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 20: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 20: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 21: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 21: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 24: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 26: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 26: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 26: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 27: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 27: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 28: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 28: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 30: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 30: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 30: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 31: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 31: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 32: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 32: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml - 34: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE17_Atk_1\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 20: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 20: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 20: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 21: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 21: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml - 23: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE18_Atk_1\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 17: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 19: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 19: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml - 25: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Leg\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE59_Normal_Head\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml - 1: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml - 1: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml - 7: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml - 7: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml - 11: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml - 60: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objDown\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE19_Bind_2\Draw_0.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Normal\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 20: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 20: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 20: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 21: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 21: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 22: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 23: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 23: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 24: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml - 24: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Alarm_11.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 151: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 151: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 576: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 576: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 576: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 577: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 577: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 578: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 578: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 579: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 579: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 579: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 580: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 580: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 581: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 581: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 582: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 585: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 585: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 585: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 586: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 586: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 587: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 587: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 588: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 588: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 588: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 589: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 589: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 590: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 590: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 591: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 594: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 594: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 594: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 595: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 595: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 596: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 596: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 597: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 597: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 597: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 598: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 598: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 599: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 599: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 600: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 603: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 603: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 603: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 604: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 604: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 605: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 605: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 606: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 606: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 606: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 607: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 607: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 608: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 608: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 609: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 614: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 615: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 621: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 626: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 630: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 639: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 644: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 652: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 659: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 664: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 698: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 707: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 714: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml - 721: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Core\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 48: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 48: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 48: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 49: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 49: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 50: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 50: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml - 52: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Laser\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 17: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 23: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 42: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 42: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml - 52: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet3\Alarm_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 18: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 19: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 19: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 24: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 43: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 43: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml - 53: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet2\Alarm_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 113: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 113: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 113: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 114: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 114: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 115: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 115: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 116: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 116: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 117: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 124: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 154: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml - 167: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE102_Arm01\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE22_Bind_3\Draw_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 10: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 10: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 31: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 31: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 31: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 32: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 32: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 33: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 33: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 34: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 34: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 35: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml - 38: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_RyokoD\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 108: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 108: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 160: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 160: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 160: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 161: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 161: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 162: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 162: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 164: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 164: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 164: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 165: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 165: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 166: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 174: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 181: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 181: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 182: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 184: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml - 190: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Nana\Step_2.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 10: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 10: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 31: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 31: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 31: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 32: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 32: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 33: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 33: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 34: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 34: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 35: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml - 38: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_NanaD\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 84: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 84: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 123: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 123: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 123: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 124: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 124: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 125: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 125: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 127: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 127: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 127: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 128: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 128: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 129: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 137: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 144: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 144: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 145: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 147: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 153: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 185: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 198: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 204: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 218: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 225: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 229: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 240: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 247: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 251: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 262: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 269: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 273: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 284: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 289: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 300: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 305: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 316: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 320: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 325: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 377: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 397: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 427: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 441: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 459: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 466: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 490: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 499: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 510: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 514: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 514: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 514: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 515: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 515: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 516: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 516: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 518: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 518: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 518: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 519: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 519: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 520: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 528: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 535: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 535: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 536: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 538: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 544: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 571: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 591: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 604: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 613: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 624: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 648: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 661: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 669: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 683: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 690: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 694: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 705: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 712: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 716: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 727: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 734: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 738: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 749: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 754: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 765: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 770: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 781: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 785: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml - 790: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objHelper\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 18: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 19: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 19: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 24: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 43: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 43: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml - 53: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_BulletH\Alarm_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 6: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 6: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 6: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 7: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 9: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 9: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 11: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 11: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 12: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 15: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 15: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 25: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml - 32: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S1\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 4: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 4: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 4: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 5: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 5: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 7: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 8: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 10: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml - 17: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S2\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 3: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 3: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 3: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 4: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 4: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 6: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 6: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 7: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 9: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 15: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 20: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 28: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 32: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 34: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 38: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 46: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml - 48: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S3\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Normal\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 78: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 78: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 78: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 79: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 79: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 80: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 88: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 92: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 135: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 154: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml - 163: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Arms\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool2\Create_0.gml
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool2\Step_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_xview[0]=default_x-factor+random(factor*2) -> __view_set( e__VW.XView, 0, default_x-factor+random(factor*2) )
+Converted builtin - line 26: view_xview[0]=default_x -> __view_set( e__VW.XView, 0, default_x )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0]=default_y-factor+random(factor*2) -> __view_set( e__VW.YView, 0, default_y-factor+random(factor*2) )
+Converted builtin - line 26: view_yview[0]=default_y -> __view_set( e__VW.YView, 0, default_y )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_xview[0] += (new_view_xview - __view_get( e__VW.XView, 0 )) / 6 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + ((new_view_xview - __view_get( e__VW.XView, 0 )) / 6) )
+Converted builtin - line 7: view_yview[0] += (new_view_yview - __view_get( e__VW.YView, 0 )) / 6 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + ((new_view_yview - __view_get( e__VW.YView, 0 )) / 6) )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool2\Other_4.gml
+Converted builtin - line 1: background_blend[0] = background_color -> __background_set( e__BG.Blend, 0, background_color )
+Converted builtin - line 1: background_color -> __background_get_colour( )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool2\Draw_0.gml
+Converted builtin - line 49: background_x = view_xview/5 -> __background_set( e__BG.X, 0, view_xview/5 )
+Converted builtin - line 50: background_y = view_yview/5 -> __background_set( e__BG.Y, 0, view_yview/5 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 39: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 40: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 47: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 39: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 40: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 47: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 49: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 50: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 28: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 28: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 28: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 29: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 29: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 30: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 30: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 31: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 31: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 33: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 33: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 33: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 34: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 34: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 35: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 35: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 36: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml - 36: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Alarm_11.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 65: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 65: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 65: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 66: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 66: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 67: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 67: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 68: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 68: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 68: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml - 69: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscape\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool3\Create_0.gml
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool3\Step_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview[0] = room_width-amount+440-view_wview[0] -> __view_set( e__VW.XView, 0, room_width-amount+440-view_wview[0] )
+Converted builtin - line 15: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 16: view_xview[0] = room_width -view_wview[0] -> __view_set( e__VW.XView, 0, room_width -view_wview[0] )
+Converted builtin - line 34: view_xview[0]=default_x-factor+random(factor*2) -> __view_set( e__VW.XView, 0, default_x-factor+random(factor*2) )
+Converted builtin - line 37: view_xview[0]=default_x -> __view_set( e__VW.XView, 0, default_x )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 18: view_yview[0] = room_height-view_hview[0] -> __view_set( e__VW.YView, 0, room_height-view_hview[0] )
+Converted builtin - line 35: view_yview[0]=default_y-factor+random(factor*2) -> __view_set( e__VW.YView, 0, default_y-factor+random(factor*2) )
+Converted builtin - line 37: view_yview[0]=default_y -> __view_set( e__VW.YView, 0, default_y )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 16: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 18: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 4: view_xview[0] += (new_view_xview - __view_get( e__VW.XView, 0 )) / 6 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + ((new_view_xview - __view_get( e__VW.XView, 0 )) / 6) )
+Converted builtin - line 7: view_yview[0] += (new_view_yview - __view_get( e__VW.YView, 0 )) / 6 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + ((new_view_yview - __view_get( e__VW.YView, 0 )) / 6) )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 16: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 18: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool3\Other_4.gml
+Converted builtin - line 1: background_blend[0] = background_color -> __background_set( e__BG.Blend, 0, background_color )
+Converted builtin - line 1: background_color -> __background_get_colour( )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objSchlool3\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 39: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 40: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 47: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 39: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 40: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 47: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscFailed\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscFailed\Step_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscFailed\Step_0.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscFailed\Step_0.gml - 28: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEscFailed\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBarricade\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 13: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 13: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 13: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 14: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 14: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 15: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 15: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 15: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 16: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 17: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 18: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 18: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 20: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 25: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 25: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 27: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 32: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 32: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 34: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml - 56: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objGroundCreate\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 27: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 27: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 27: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 28: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 28: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 28: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 29: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 29: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 29: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 30: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 30: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 30: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 31: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 31: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 31: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 32: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 32: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 32: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 33: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 43: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 55: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml - 76: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objE103_Last\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml - 16: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml - 16: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml - 16: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml - 17: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml - 17: unexpected terminal operator new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml - 22: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml - 49: unexpected syntax error
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objN_Bullet4\Alarm_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEnding\Step_0.gml
+Converted builtin - line 19: view_xview[0]=default_x-factor+random(factor*2) -> __view_set( e__VW.XView, 0, default_x-factor+random(factor*2) )
+Converted builtin - line 22: view_xview[0]=default_x -> __view_set( e__VW.XView, 0, default_x )
+Converted builtin - line 20: view_yview[0]=default_y-factor+random(factor*2) -> __view_set( e__VW.YView, 0, default_y-factor+random(factor*2) )
+Converted builtin - line 22: view_yview[0]=default_y -> __view_set( e__VW.YView, 0, default_y )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEnding\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEnding2\Create_0.gml
+String not found: ConversionLog_ConvertedString 7 "-����-\n\n�T�L" "-����-\\n\\n�T�L"
+String not found: ConversionLog_ConvertedString 8 "-�G�Ƃ�-\n\n�T�L" "-�G�Ƃ�-\\n\\n�T�L"
+String not found: ConversionLog_ConvertedString 9 "-�v���O�����Ƃ�-\n\n�T�L" "-�v���O�����Ƃ�-\\n\\n�T�L"
+String not found: ConversionLog_ConvertedString 10 "-�e�X�g�v���C-\n\n����͂��������" "-�e�X�g�v���C-\\n\\n����͂��������"
+String not found: ConversionLog_ConvertedString 11 "-����c�[��-\n\nGamemaker" "-����c�[��-\\n\\nGamemaker"
+String not found: ConversionLog_ConvertedString 12 "-����-\n\n�����i�Q�[�����쏊\n�u���a��" "-����-\\n\\n�����i�Q�[�����쏊\\n�u���a��"
+String not found: ConversionLog_ConvertedString 13 "-���y-\n\n�������l\nPianos DauGe�l\n�������l" "-���y-\\n\\n�������l\\nPianos DauGe�l\\n�������l"
+String not found: ConversionLog_ConvertedString 15 "\nEND.. Thank you for playing.\n\nBackSpace�ł��̂܂܃^�C�g����\nEnter�ŃZ�[�u���ă^�C�g����" "\\nEND.. Thank you for playing.\\n\\nBackSpace�ł��̂܂܃^�C�g����\\nEnter�ŃZ�[�u���ă^�C�g����"
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEnding2\Step_0.gml
+Converted builtin - line 1: background_hspeed[1] = 0.1 -> __background_set( e__BG.HSpeed, 1, 0.1 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objEnding2\Draw_0.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S4\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S4\Step_0.gml - 3: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S4\Step_0.gml - 3: malformed variable reference got new
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S4\Step_0.gml - 3: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S4\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S6\Step_0.gml
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S6\Step_0.gml - 1: unexpected syntax error
+ERROR: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S6\Step_0.gml - 1: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objR_Atk_S6\Step_0.gml
+
+Converting GML script: C:\Users\Codingboy\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\BB_1593509728_gmz\mvc\objects\objBikeCtrlMsg\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 13: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 13: view_hview -> __view_get( e__VW.HView, 0 )
+String not found: ConversionLog_ConvertedString 10 "�~������\n����������������ȏ��ŉ����ƐS���͂��Ƃ��B\n�����Ƃ������̂��߂ɊO�܂ł̒��ʌo�H�����Ă�����B\n�������̐l�Ԃɂ̓o���Ă��Ȃ��͂������E�E\n�O�̈׏�Q����ݒu���Ă��������ǂ��Ă���v���낤�B\n���������Ƃ������A�����܂ł��ǂ蒅���邾�낤���E�E�E\n\n�����炭�A�������낤�B\n�����H����Ȃ��������A���n�𑼂̒N���ɑ��������B\n������@��ȉ��ɋL���B�厖�Ɏg���ė~�����B\n\n���F�����E�O�����\n���F�����E�������\n�����F�Ə�����\n\nButton1�F�ˌ�\nButton2�F�W�����v\n" "�~������\\n����������������ȏ��ŉ����ƐS���͂��Ƃ��B\\n�����Ƃ������̂��߂ɊO�܂ł̒��ʌo�H�����Ă�����B\\n�������̐l�Ԃɂ̓o���Ă��Ȃ��͂������E�E\\n�O�̈׏�Q����ݒu���Ă��������ǂ��Ă���v���낤�B\\n���������Ƃ������A�����܂ł��ǂ蒅���邾�낤���E�E�E\\n\\n�����炭�A�������낤�B\\n�����H����Ȃ��������A���n�𑼂̒N���ɑ��������B\\n������@��ȉ��ɋL���B�厖�Ɏg���ė~�����B\\n\\n���F�����E�O�����\\n���F�����E�������\\n�����F�Ə�����\\n\\nButton1�F�ˌ�\\nButton2�F�W�����v\\n"
+
+Missing audiogroup for sound: 's1' - setting to default audio group
+Missing audiogroup for sound: 's2' - setting to default audio group
+Missing audiogroup for sound: 's3' - setting to default audio group
+Missing audiogroup for sound: 's4' - setting to default audio group
+Missing audiogroup for sound: 's5' - setting to default audio group
+Missing audiogroup for sound: 'sbomb' - setting to default audio group
+Missing audiogroup for sound: 'boss01' - setting to default audio group
+Missing audiogroup for sound: 'boss02' - setting to default audio group
+Missing audiogroup for sound: 'boss03' - setting to default audio group
+Missing audiogroup for sound: 'boss04' - setting to default audio group
+Missing audiogroup for sound: 'boss05' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound01' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound02' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound03' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound04' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound05' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound06' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound07' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound08' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound09' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound10' - setting to default audio group
+Missing audiogroup for sound: 'Boss_sound11' - setting to default audio group
+Missing audiogroup for sound: 'Bullet' - setting to default audio group
+Missing audiogroup for sound: 'Cancel' - setting to default audio group
+Missing audiogroup for sound: 'Decide' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_01' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_02' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_03' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_04' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_05' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_06' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_07' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_08' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_09' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_10' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_101' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_102' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_103' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_11' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_115' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_116' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_117' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_118' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_119' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_12' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_13' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_14' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_15' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_155' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_157' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_158' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_159' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_16' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_17' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_18' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_19' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_51' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_52' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_53' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_54' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_55' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_56' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_57' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_58' - setting to default audio group
+Missing audiogroup for sound: 'Dmg_59' - setting to default audio group
+Missing audiogroup for sound: 'send' - setting to default audio group
+Missing audiogroup for sound: 'Hit_00' - setting to default audio group
+Missing audiogroup for sound: 'Hit_01' - setting to default audio group
+Missing audiogroup for sound: 'Hit_02' - setting to default audio group
+Missing audiogroup for sound: 'Hit_03' - setting to default audio group
+Missing audiogroup for sound: 'Hit_04' - setting to default audio group
+Missing audiogroup for sound: 'Hit_05' - setting to default audio group
+Missing audiogroup for sound: 'Hit_06' - setting to default audio group
+Missing audiogroup for sound: 'Hit_07' - setting to default audio group
+Missing audiogroup for sound: 'Hit_08' - setting to default audio group
+Missing audiogroup for sound: 'Hit_09' - setting to default audio group
+Missing audiogroup for sound: 'Hit_10' - setting to default audio group
+Missing audiogroup for sound: 'Hit_11' - setting to default audio group
+Missing audiogroup for sound: 'Hit_12' - setting to default audio group
+Missing audiogroup for sound: 'Hit_13' - setting to default audio group
+Missing audiogroup for sound: 'Hit_14' - setting to default audio group
+Missing audiogroup for sound: 'Hit_15' - setting to default audio group
+Missing audiogroup for sound: 'Hit_16' - setting to default audio group
+Missing audiogroup for sound: 'Hit_17' - setting to default audio group
+Missing audiogroup for sound: 'Hit_18' - setting to default audio group
+Missing audiogroup for sound: 'Hit_19' - setting to default audio group
+Missing audiogroup for sound: 'Hit_20' - setting to default audio group
+Missing audiogroup for sound: 'Hit_21' - setting to default audio group
+Missing audiogroup for sound: 'Hit_22' - setting to default audio group
+Missing audiogroup for sound: 'Hit_23' - setting to default audio group
+Missing audiogroup for sound: 'Hit_24' - setting to default audio group
+Missing audiogroup for sound: 'Item' - setting to default audio group
+Missing audiogroup for sound: 'l01' - setting to default audio group
+Missing audiogroup for sound: 'Rec' - setting to default audio group
+Missing audiogroup for sound: 'Reload_1' - setting to default audio group
+Missing audiogroup for sound: 'Reload_2' - setting to default audio group
+Missing audiogroup for sound: 'Reload_3' - setting to default audio group
+Missing audiogroup for sound: 'Save' - setting to default audio group
+Missing audiogroup for sound: 'Select' - setting to default audio group
+Missing audiogroup for sound: 'Se_01' - setting to default audio group
+Missing audiogroup for sound: 'Se_02' - setting to default audio group
+Missing audiogroup for sound: 'Se_03' - setting to default audio group
+Missing audiogroup for sound: 'Se_04' - setting to default audio group
+Missing audiogroup for sound: 'Shot_1' - setting to default audio group
+Missing audiogroup for sound: 'Shot_2' - setting to default audio group
+Missing audiogroup for sound: 'Step_1' - setting to default audio group
+Missing audiogroup for sound: 'Step_2' - setting to default audio group
+Missing audiogroup for sound: 'Swing_1' - setting to default audio group
+Missing audiogroup for sound: 'Swing_2' - setting to default audio group
+Missing audiogroup for sound: 'Swing_3' - setting to default audio group
+Missing audiogroup for sound: 'Swing_4' - setting to default audio group
+Missing audiogroup for sound: 'Switch_1' - setting to default audio group
+Missing audiogroup for sound: 'Switch_2' - setting to default audio group
+Imported layer depths for room(s) 'room9, room14_n, room15_n, room16_n, room21_n, room29_n, room37_n, room46_n, room54_n' were not adequately spaced. Unless updated this will have undefined results in game.
+Game speed set to 40
+Added compatibility script 'action\action_change_object.gml'
+Added compatibility script 'action\action_color.gml'
+Added compatibility script 'action\action_create_object.gml'
+Added compatibility script 'action\action_create_object_motion.gml'
+Added compatibility script 'action\action_draw_ellipse_gradient.gml'
+Added compatibility script 'action\action_draw_gradient_vert.gml'
+Added compatibility script 'action\action_draw_health.gml'
+Added compatibility script 'action\action_draw_sprite.gml'
+Added compatibility script 'action\action_draw_text.gml'
+Added compatibility script 'action\action_draw_text_transformed.gml'
+Added compatibility script 'action\action_draw_variable.gml'
+Added compatibility script 'action\action_effect.gml'
+Added compatibility script 'action\action_font.gml'
+Added compatibility script 'action\action_if.gml'
+Added compatibility script 'action\action_if_empty.gml'
+Added compatibility script 'action\action_if_variable.gml'
+Added compatibility script 'action\action_inherited.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'action\action_move_contact.gml'
+Added compatibility script 'action\action_move_to.gml'
+Added compatibility script 'action\action_next_room.gml'
+Added compatibility script 'action\action_set_alarm.gml'
+Added compatibility script 'action\action_set_gravity.gml'
+Added compatibility script 'action\action_set_health.gml'
+Added compatibility script 'action\action_set_hspeed.gml'
+Added compatibility script 'action\action_set_relative.gml'
+Added compatibility script 'action\action_set_vspeed.gml'
+Added compatibility script 'background\__background_get_colour.gml'
+Added compatibility script 'background\__background_get_colour_element.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'joystick\joystick_buttons.gml'
+Added compatibility script 'joystick\joystick_check_button.gml'
+Added compatibility script 'joystick\joystick_exists.gml'
+Added compatibility script 'joystick\joystick_xpos.gml'
+Added compatibility script 'joystick\joystick_ypos.gml'
+Added compatibility script 'joystick\__joystick_2_gamepad.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_delete.gml'
+Added compatibility script 'sound\sound_global_volume.gml'
+Added compatibility script 'sound\sound_isplaying.gml'
+Added compatibility script 'sound\sound_loop.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'sound\sound_stop.gml'
+Added compatibility script 'sound\sound_volume.gml'
+Added compatibility script 'view\__view_get.gml'
+Added compatibility script 'view\__view_set.gml'
+Added compatibility script 'view\__view_set_internal.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script 'joystick\__init_joystick.gml'
+Added compatibility script 'view\__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'joystick\joystick_process_events.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,1 @@
+global.scr_dark = 1;

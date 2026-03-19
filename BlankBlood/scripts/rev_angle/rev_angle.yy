@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"rev_angle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rev_angle",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

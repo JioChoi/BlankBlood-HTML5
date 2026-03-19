@@ -1,0 +1,1 @@
+if(global.clone) global.help = false;

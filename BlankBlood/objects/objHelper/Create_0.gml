@@ -1,0 +1,29 @@
+{
+	cutkind = 0;
+	image_blend = c_white;
+	kind = 3;		//1-�����@2-�@�B
+	weight	 = 10;	//�d��
+	HP		 = 500;	//�̗�
+	preHP		 = HP;
+	point		 = 1000;	//���_
+	walk		 = 5;	//��s�X�s�[�h
+	run		 = 10;	//���s�X�s�[�h
+	mode = "wait";
+	move = 0;
+	crouch = 0;
+	dash = 0;
+	color = c_white;
+	//color = make_color_rgb(150,255,128)
+	/*----------*/
+	step = 0;motion = 0;
+	hspd = 0;		//���������X�s�[�h
+	bind = 0;			//�S���t���O
+	dir = 0;			//0-��		1-�E
+	air = 0;			//0-�n��	1-��
+	dis = 0; pos=0;
+	gun_index = 0;
+	gun_dir = 0;
+	alarm[0] = 40;
+}
+/* */
+/*  */

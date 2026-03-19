@@ -1,0 +1,819 @@
+192.168.219.1 - - [19/Mar/2026 01:10:14] code 400, message Bad request version ('ÔE\\x0fÇRTö¢\\x00*ÚÚ\\x13\\x02\\x13\\x03\\x13\\x01À,À+Ì©À0À/Ì¨À')
+192.168.219.1 - - [19/Mar/2026 01:10:14] "\x16\x03\x01\x05û\x01\x00\x05÷\x03\x03Þ\x7f/¤\x9a7T\x85Vl6Ä\x0e\x93p¼*¥}Q èTY»U\x98}*á\x89ô ´xÕ\x1a0³ïß(3\x0e\x9eYSÖA\x18\x90Ý,\x09§ý\x1dÔE\x0fÇRTö¢\x00*ÚÚ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À" 400 -
+192.168.219.1 - - [19/Mar/2026 01:10:14] code 400, message Bad request version ('Z\\x95¹bUze¯¿å÷,*\\\\¿yo\\x0f\\x04u¢&¥Y,ã\\x13Ç\\x87¶Kà\\x00*JJ\\x13\\x02\\x13\\x03\\x13\\x01À,À+Ì©À0À/Ì¨À')
+192.168.219.1 - - [19/Mar/2026 01:10:14] "\x16\x03\x01\x05û\x01\x00\x05÷\x03\x03\x10æõ\x1f\x81 \x9aÌ\x15_\x85ÿ¨g\x0d£°ýôé¦\x85?\x05rË\x8fG1¼\x809 Z\x95¹bUze¯¿å÷,*\\¿yo\x0f\x04u¢&¥Y,ã\x13Ç\x87¶Kà\x00*JJ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À" 400 -
+192.168.219.1 - - [19/Mar/2026 01:10:14] code 400, message Bad request version ('ô\\x00*úú\\x13\\x02\\x13\\x03\\x13\\x01À,À+Ì©À0À/Ì¨À')
+192.168.219.1 - - [19/Mar/2026 01:10:14] "\x16\x03\x01\x05û\x01\x00\x05÷\x03\x03®1æd<ó#ÉST\x88D\x1fN¤Ëì`Þ\x0e0H\x0eý\x8f\x97A\x19eÔ\x83\x8d ¾.0\x0bèØ ßb\x00UºãÚ/qÿ96\x87yS\x16\x94¶fþ\x88Bº\x0dô\x00*úú\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À" 400 -
+192.168.219.1 - - [19/Mar/2026 01:10:14] code 400, message Bad request version ("¹BÐKù\\x94ùA\\x88\\x93Ë\\x9eoÔÜ\\x17û\\x99á¥GåX7ÝÃCbR×é'\\x00*JJ\\x13\\x02\\x13\\x03\\x13\\x01À,À+Ì©À0À/Ì¨À")
+192.168.219.1 - - [19/Mar/2026 01:10:14] "\x16\x03\x01\x05û\x01\x00\x05÷\x03\x03û@\x84\x804üKDÝ>ÝØ\x00Üë;!\x9c«\x90X\x82ôvub ¡l­\x11_ ¹BÐKù\x94ùA\x88\x93Ë\x9eoÔÜ\x17û\x99á¥GåX7ÝÃCbR×é'\x00*JJ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À" 400 -
+192.168.219.1 - - [19/Mar/2026 01:10:14] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:10:14] "GET /html5-build/ HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:10:16] code 400, message Bad request version ('\\x03&÷~Ñì\\x12\\x00tE\\x00***\\x13\\x02\\x13\\x03\\x13\\x01À,À+Ì©À0À/Ì¨À')
+192.168.219.1 - - [19/Mar/2026 01:10:16] "\x16\x03\x01\x05û\x01\x00\x05÷\x03\x03e\x14xs\x844\x84Y\x1a£õ\x80/>\x97?bÔ\x00sY3\x1c\x0db\x8e=¥óþG3 0\x10®3¹¹Þ\x912ÆøóbÞB0\x0eô\x829\\ \x03&÷~Ñì\x12\x00tE\x00***\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À" 400 -
+192.168.219.1 - - [19/Mar/2026 01:10:16] code 400, message Bad request version ('Y\\x89xo£ÀR:\\x00*ÊÊ\\x13\\x02\\x13\\x03\\x13\\x01À,À+Ì©À0À/Ì¨À')
+192.168.219.1 - - [19/Mar/2026 01:10:16] "\x16\x03\x01\x05û\x01\x00\x05÷\x03\x03m=¼Àç®\x0f\x0eC\x09uP×ð!Ûµ`\x83\x1f\x14ë59O7½£\x063ÝH Ò¸Þ\x975|\x13¦\x9d\x93eâ\x13\x82\x12¼.Sfe\x18å«\x0cY\x89xo£ÀR:\x00*ÊÊ\x13\x02\x13\x03\x13\x01À,À+Ì©À0À/Ì¨À" 400 -
+192.168.219.1 - - [19/Mar/2026 01:10:16] "GET / HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:16] "GET /html5game/BB.js?cachebust=687647296 HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:16] "GET /inject.js HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/BB_texture_0.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/BB_texture_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound06.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound07.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound10.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound09.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound08.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Boss_sound11.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/boss02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/boss01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/boss03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/boss04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/boss05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:18] "GET /html5game/Bullet.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Cancel.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Decide.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_06.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_07.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_08.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_09.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_101.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_10.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_102.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_103.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_115.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_11.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_116.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_118.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_117.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_119.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_12.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_13.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_14.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_155.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_15.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_157.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_158.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_159.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_16.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_17.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_18.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_19.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_51.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_55.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_52.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_54.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_53.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_56.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_57.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_58.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_00.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Dmg_59.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_06.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_08.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_07.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_09.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_10.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_11.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_12.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_13.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_14.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_15.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_18.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_17.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_19.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_16.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_20.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_22.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_21.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_23.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Hit_24.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Item.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/l01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Rec.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Reload_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Reload_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/s1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Reload_3.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/s2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/s3.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/s4.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/s5.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Save.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/sbomb.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Se_01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Se_02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Se_04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Se_03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Shot_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/send.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Select.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Shot_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Step_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Step_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Swing_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Swing_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Swing_4.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Swing_3.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Switch_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/Switch_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF8.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF9.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF12.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF13.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF14.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:19] "GET /html5game/particles/IDR_GIF15.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/stand_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/stand_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/walk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/walk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/stand_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/run_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/Chara/1/run_2.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/crouch_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/jumpU_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/jumpD_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_8.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_9.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Atk_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/AtkE_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/AtkE_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/AtkE_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/AtkE_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/AtkE_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Damage_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/AtkE_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Damage_221.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Damage_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Damage_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Damage_222.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Bind_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Bind_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Bind_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Bind_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:20] "GET /html5game/pngs/Chara/1/Bind_6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Bind_7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_12.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_10n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_11n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_20.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_12n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_41.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_51.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_72.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_61.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_71.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_81.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_101.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_91.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_102.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_Cut_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/1/Death_Cut_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/stand_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/stand_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/stand_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/run_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/walk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/walk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/run_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/crouch_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/jumpU_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/jumpU_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/jumpD_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Atk_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Atk_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Atk_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Atk_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/AtkE_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/AtkE_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/AtkE_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/AtkE_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/AtkE_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Damage_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Damage_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Damage_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Damage_221.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Damage_222.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Bind_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Bind_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Bind_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Bind_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Bind_6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Bind_7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_12.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_10n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_11n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_12n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_20.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_41.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_51.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_61.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_72.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_71.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_91.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_81.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_102.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_101.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_Cut_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/0a/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/2/Death_Cut_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/01/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/01/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/01/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/02/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/03/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/02/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/03/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/04/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/03/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/04/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/04/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/04/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/06/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/06/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/05/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/05/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/06/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/06/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/06/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/07/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/07/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/07/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/07/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/08/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/08/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/08/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/09/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/09/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/09/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/09/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/10/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/10/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/11/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/10/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/10/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/12/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/12/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/12/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/13/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/13/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/14/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/14/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/14/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/14/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/15/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/15/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/15/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/16/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/16/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/17/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/17/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/18/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/19/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/19/Jump.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/20/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/19/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/20/Jump.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/20/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/21/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/21/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/22/01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/21/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/22/02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/22/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/22/04.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/22/03.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/22/05.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/23/01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/23/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/23/02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/23/03.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/23/04.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/23/05.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/24/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/03.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/04.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/05.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/06.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/25/07.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/51/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/52/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/52/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/53/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/54/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/54/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/55/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/55/Normal_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/56/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/57/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/58/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/58/Finish.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Enemy/60/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Rec_Item.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Point_Item.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Blood_02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Blood_01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Particle/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Save_01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/Chara/Effect/Particle/22.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Particle/21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Effect/Particle/20.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/Chara/Effect/Particle/24.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/Chara/Effect/Particle/23.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/Chara/Effect/Particle/25.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:10:21] "GET /html5game/pngs/Chara/Block/Block_01.png HTTP/1.1" 200 -
+127.0.0.1 - - [19/Mar/2026 01:29:02] code 404, message File not found
+127.0.0.1 - - [19/Mar/2026 01:29:02] "GET /html5-build/ HTTP/1.1" 404 -
+127.0.0.1 - - [19/Mar/2026 01:29:03] code 404, message File not found
+127.0.0.1 - - [19/Mar/2026 01:29:03] "GET /html5-build/ HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:29:10] code 400, message Bad request version ('server.jio.is\\x00+\\x00\\x07\\x06')
+192.168.219.1 - - [19/Mar/2026 01:29:10] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03J\x8d±|\x1caç\x9bÓê\x1e¸ñmÊ¯\x93³ wÚµ©¨¿\x8fì`îÇ\x15\x88 áN\x93ÈBú$³\x87ßì\x08xã\x91\x19\x8a¿6SüÓîÎ=F\x91\x96\x9c÷qu\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x89ÚÚ\x00\x00\x00\x0b\x00\x02\x01\x00þ\x0d\x00ú\x00\x00\x01\x00\x01z\x00 *ø\x95/PTôXeR\x19\x9dlI \x80T\x1bo/\x16úø:ùl\x84,éG!\x0b\x00Ðp=`Tmª\x03r<x=&µ\x1d£HÓ\x06Ç´05f\x1f}\x1f´+\x0f´\x81ätéJ\x85\x9býÞ¹fI2K\x03\x18\x82i&%\x09<øð=¼§\x03ñÒ\x1d7yÊÉ\x0b½öZY`\x9aÞ\x1f®í\x91j¶Ã³{s\x0fUpg\x97ÒÞZ²æ\x04\x1d¯K¡\x81a6ðÐ\\\x94C\x96[Që3\x88ÑºÉÃ\x8cÐWaUJ¢wËv_¯gK6,·\x8e\x7f÷Mfc\x94ó\x89l®hHy¡\x1c\x92ßT®ü\x16A%I×Þì!F\x8c\x9f"3ÍV¯"ã.\x0b\x85°PqSü\x04_/*¿Zªzg&wÊ).&\x14\x0eHª÷Qõ[\x1a\x8fÖ_\x0b\x00#\x00\x00\x00\x12\x00\x00ÿ\x01\x00\x01\x00DÍ\x00\x05\x00\x03\x02h2\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x00+\x00\x07\x06" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:10] code 400, message Bad request version ('dFö\\x90ì»')
+192.168.219.1 - - [19/Mar/2026 01:29:10] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03éåzá¨ñêgG;!ìT@Z`Ë[s|\x01\x0cÐ\x1bÖ_¡ ò`\x00ë ùÁ\x8c°\x02\x07Þ\x92RZ¸hr³\x14'.5{â\x96`\x14ºí\x04{fi t.\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06iÊÊ\x00\x00\x00-\x00\x02\x01\x01\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00\x0b\x00\x02\x01\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01Ð\x00 B~\x82Ô\x9eíä{\x9e\x06\x16L7oXun}Ý\x82l\x91\x80]\x00ý/\x14Ñîx\x0c\x00°\x08\x8947\x09N\x88\x89#¦¶\x00Æpb\x17\x1cFMl¢R\\Å\x01M\x92Îc\x8d×8L\x1e\x8d\x82~\x8c`¬^nc\x8e4\x85°Î\x1f»xÇGÁÜ\x0fÐÈ\x8ew×Âí\x1c\x99Aý\x86Êäî:\x9aº-\x1d\x0bâ\x09C¬1²\x95âg}T\x03\x05\x84¤ù\x897\x95Ì¬°\x09dFö\x90ì»" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:10] code 400, message Bad request version ('ív\\x03\\x07Î')
+192.168.219.1 - - [19/Mar/2026 01:29:10] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03@IÐ{«ê\x19\x9eîgÛ1ÆS\x14DÁu\x99í3\x01\x1dFÅ\x7fÉ ó0Ýë R&0\x91Y®ì\x9d\x12öÏÓHdl¢t6}\x7fL\x03¤\x87~+F\x07S¹\x9dà\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Iªª\x00\x00ÿ\x01\x00\x01\x00þ\x0d\x00º\x00\x00\x01\x00\x01Q\x00 ?jö\x93HOy\x82>°|¼[TÓêÎ`0b·óm<úòñI®Æ¸2\x00\x90°®"ütÞG°\x02\x17\x0d5÷gt¢Ka\x07âÌ\x15K§h95ÆåÏ£ç\x84×k\x81dùZYàç\x1a?ÄI8(\x00ñ&Ío¸ÖPb×Õfº²\x17\x9cÞÆëe\x1c\x9aÈô\x8d¡f£\x14O´µ\x80\x9cô+²¢¾C¯\x17ÿÞP\\ðÎÆÑ\x01}~ 2ß\x98§QYãc|\x0feî\x8f7ÎWùê\x09ív\x03\x07Î" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:10] code 400, message Bad request version ('ß=Ê5t^')
+192.168.219.1 - - [19/Mar/2026 01:29:10] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03-³\x8fD[Ãm\x8dîä\x13Í\x01\x9bc"v/"\x18\x03^\x11Á:\x1a\x9c³û\x1aX7  ª\x83\x1a; ß=Ê5t^" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:11] code 400, message Bad request version ('ú´\\x11ÏA\\x87exTø»«')
+192.168.219.1 - - [19/Mar/2026 01:29:11] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03äôá\x88\x7f(7e°³)k À\x8f]¾\x08îÍ­\x8eM\x06sÓ\x8dõ\x90\x10:p ú´\x11ÏA\x87exTø»«" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:11] code 400, message Bad request version ('ºº\\x13\\x01\\x13\\x02\\x13\\x03À+À/À,À0Ì©Ì¨À\\x13À\\x14\\x00\\x9c\\x00\\x9d\\x00/\\x005\\x01\\x00\\x06\\x89ÊÊ\\x00\\x00\\x00\\x12\\x00\\x00\\x00-\\x00\\x02\\x01\\x01\\x00+\\x00\\x07\\x06úú\\x03\\x04\\x03\\x03\\x00\\x05\\x00\\x05\\x01\\x00\\x00\\x00\\x00\\x00\\x1b\\x00\\x03\\x02\\x00\\x02\\x00')
+192.168.219.1 - - [19/Mar/2026 01:29:11] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03\x9cåqÈ0Ì\x06\x9c\x88Nõ\x84´°ß\x12m\x18¢-5Jë\x16(ö=ýÎ\x08z\x94 ®\x9bvér>ä0E®SÂ¸A¨ö\x97ZD\x87\x12ûIü÷\x8d}]Ôþ\x8b(\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x89ÊÊ\x00\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00+\x00\x07\x06úú\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:11] code 400, message Bad request version ('ÑaSH0\\x82à\\x83¾$1üÓ-3')
+192.168.219.1 - - [19/Mar/2026 01:29:11] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03I\x10ý\x96\x05¼2\x95û}?\x01%·øù\x91ÿ\x0f\x7fô\x80\x9béI\x1b\x0f¹\x9d­jK \x08\x0f¨òU\x11ÉáÔ\x8eá\x00Ù°\x09Õ päñSúý¥1v\x14Ü\x9bø\x1f\x06\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x89ÚÚ\x00\x00\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x003\x04ï\x04íjj\x00\x01\x00\x11ì\x04À-k¢öÉ°Ä\x08¬³hw¦Cw´g«±\x91Yä\x829GªR\x18à\x88\x11v\x80½GIå|\x82F<\x1a.ü\x8aJ\x89Dü|\x04\x0fçAå`\x1f\x81sR\x03§\x1a\x1dÑaSH0\x82à\x83¾$1üÓ-3" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:11] code 400, message Bad request version ('Þ')
+192.168.219.1 - - [19/Mar/2026 01:29:11] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03È{n9\x1a]\x93\x01Z!7\x9dn?9v©Uõùø¸ìÑz\x8eæ\x0c\x93âB¯ }ÐÓT\x1fSÔ1\x09é\x0cØå²vpd5d\x87dE\x87§ÒÜÀÌ°ÿ\x86k\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06©JJ\x00\x00ÿ\x01\x00\x01\x00\x00+\x00\x07\x06úú\x03\x04\x03\x03\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1þ\x0d\x01\x1a\x00\x00\x01\x00\x01ç\x00 \x9b«ôömM¦­Hìdq,\x13ÞùµM:qªËh\x0cÇf\x1fI\x0b8 c\x00ð=wÄ¡Í\x16½å\x8e1\x0dÞ" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:50] code 400, message Bad request version ('ð\\x18')
+192.168.219.1 - - [19/Mar/2026 01:29:50] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x033\x89\x1d´\x8d\x95Ùô/Í¿Ý+\x13]\x89Òw5U\x9e\x91xDò"=â;\x15µx oJM$ÓuW\x10\x0f^qv¬s£ÔÆêË\x00ÂðuÈiä~òM¬T\x9b\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Izz\x00\x00\x00\x1b\x00\x03\x02\x00\x02DÍ\x00\x05\x00\x03\x02h2\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x003\x04ï\x04íÚÚ\x00\x01\x00\x11ì\x04À\x96{\x99§ÜZ¬!¯q2\x96\x12L\x911\x83F¨\x81¾ \x9bÊvµ\x18ÓÃIÄx\x04Ñ\\Î¾\x19\x92\x16\x94.á\x06\x02¢Él\x02µ\x90ðç»ía\x1aØ9xF[5ZÆhyIGt\x8a4\x18\x18/ç\x9at\x15\x0bAcg\x9e\x144\x0d\\g_JµÎäH½N\x04GÜUJ\x1eYÌù\\\x1d!rsYø\x0e\x9aù\x09râ¡ð\x0bÌN@¾Ä¬\x9fúº\x09§\x18\x1dì¥m³\x0b\x8f\x88L³cÔr¯¨e\x8f"w\x10ðo,i\x0f,¥!¨Ä\x18«\x85$ë\x82G\x7f\x98I\x83à\x13\x1b\x06\x93á\x0c6þë\x1dÞ0 \x0bJ\x82\x10Ì¿íÑsaÄ¢\x05æ|´\x89¯òR\x08\x13\x8b|¨\x8a\x89Z\x1aÀÉçY\x11v¶å©¨þ\x95J\x0dä\x93ie.]ù\x93F\x8bªk±ËH\x13©Þ|\x82\x05HÌ5\\\x8b\x94ªNz2x\x04eÁ¹#\x9an\x87Ãb×\x84ÕåG©ây\x94¡d³D\x8cLzÏuI<g*¡ôì\x90\x14ðd\x12³wA¬5fÜh\x15#\x10\x17à}êRÈ\x95E£|\x17Èd!\x0dV¢©"ADb;*× \x1cð\x18" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:50] code 400, message Bad request version ('\\x82öÙ')
+192.168.219.1 - - [19/Mar/2026 01:29:50] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03\x84 \x85\x9f~\x18Y!ð\x8bÒÄ²?\x9c`\x0b¤{A\x91¬:%>§\x99Æ\x94\x90Ò7 )g9mFô´ù½\x90¦Ò\x16°æ»´î\x1f\x9dôW\x12\x08\x88BÌVvXc\x1f\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06iJJ\x00\x00\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x00+\x00\x07\x06\x1a\x1a\x03\x04\x03\x03þ\x0d\x00Ú\x00\x00\x01\x00\x01'\x00 DÐ°7ÏåKm:¢Û?Õì\x82¢\x13S\x19u\x9aQÒ\x0b²aVo\x94\x10Ó3\x00°\x00\x0f3\x92|¹.\x8f9ÙÒP2¹w\x85LÊ£QL=\x03ízÍ{a\x15Ó\x0f\x17´M*ÿÔ#Ez­O\x93\x84ÕÖãmÖé\x82¸\x07¸\x1eTØ\x1a\x89U¿\x14¸tË¢/y\x9cT\x96ã±Ê<\x85×ºìµ\x13\x1aIäxoÔG§K\x0c®Ê\x09\x82öÙ" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:50] code 400, message Bad request version ('\\x02h2\\x08http/1.1\\x00')
+192.168.219.1 - - [19/Mar/2026 01:29:50] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03YË)¬A\x95á¢\x80\x030\x81Ú\x86ßP!(}|ÙoÛP\x89ôÏ?\x03ì8\x92 Þ©ÙS&\x01µÁÑÄôHªËeèâq½\x1d³Kµq\x16«½u2\x85ûÄ\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06©úú\x00\x00\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x00-\x00\x02\x01\x01\x00+\x00\x07\x06::\x03\x04\x03\x03\x00\x12\x00\x00\x00\x17\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:50] code 400, message Bad request version ('\\x02h2\\x08http/1.1\\x00#\\x00\\x00\\x00')
+192.168.219.1 - - [19/Mar/2026 01:29:50] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03\x98_dCØq¯T\x99DÐØ\x0euHI\x89d\x1d+ª÷\x01ä\x12Y\x1d\x95ô\x0c\x9e\x85 ×HzÐjô\x0e\x95%òLZ»»ÄÄÝ\\\x8aY\x09\x1b\x0cf\x88ã÷aÒ¹\x9d\x81\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06©ªª\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00#\x00\x00\x00" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:51] code 400, message Bad request version ('D}\\x16V2¤tf\\x1b²ÕE±\\x8a7')
+192.168.219.1 - - [19/Mar/2026 01:29:51] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03\x94¤\x94#é\x1d: \x8aØ(éLq\x16\x1ds1º\x0c>ë¥\x89¡<\x87Ý\x09<0c I\x88\x7fê¸h\x01e§\x8f¦×Çà\x18Ðâ\x82}\x14\x14A\x0f¨\x07-sHþ\x01&g\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06©ªª\x00\x00þ\x0d\x01\x1a\x00\x00\x01\x00\x01/\x00 aM\x81¡\x86êRÍÍNíaG\x02\x10\x03ZEÖPTú\x1e\x17{\x1b{èo/r+\x00ðá÷YuÔ5<\x85\x90Y3O\x02Vu\x0cc½À»w\x18<±\x80\x86\x18¦Ú\x80Þ\x13§H8Pày\x95é\x0b8\x86\x8d\x95\x04Ú{«ÓòÓ\x89è-\x09à6.6\x97ó\x88½\x94F\x10Þâ+¼ZÙ/qN\x88C\x18G´¯Õ\x96-\x04\x0dVBÔ\x11Ù¯Ï\x0e\x18{\x188úL\x02ß ¸\x9a>u\x9e^#«ªc\x99|²\x81é^¬(5\x94@i<¬«i\x86\x9a\x02\x09ºl\x10|ÈFj¯µ|^t;+fçÓ~°ßb\x1aÒLµ# D}\x16V2¤tf\x1b²ÕE±\x8a7" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:51] code 400, message Bad request version ('Â\\x90\\x08rtÊá\\x06öÕ¨\\x97\\x8e§0ìOÁ¥')
+192.168.219.1 - - [19/Mar/2026 01:29:51] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03 AkFr¾\x8e\x0e\x1cÆë\x80çG¶É\x12Ä¸{iQ¡Üº\x9d^·Ð9\x91É Â\x90\x08rtÊá\x06öÕ¨\x97\x8e§0ìOÁ¥" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:51] code 400, message Bad request syntax ('\\x16\\x03\\x01\\x06¶\\x01\\x00\\x06²\\x03\\x03çý0³\\x14}\\x11\\x9bz\\x862É}\\x84\\x8f\\x98\\x1c')
+192.168.219.1 - - [19/Mar/2026 01:29:51] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03çý0³\x14}\x11\x9bz\x862É}\x84\x8f\x98\x1c" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:51] code 400, message Bad request version ('\\x00\\x02\\x01\\x00\\x00\\x12\\x00\\x00\\x00')
+192.168.219.1 - - [19/Mar/2026 01:29:51] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03è...·&\x902l?¤J¡gø¾\x89~ý\x0c\x06ót²¼·à\x9aÀ¿\x14` Æu´çÑ\x9fï¤ñ\x01\x88\x04äú«\x08\x17\x85»¢h¡\x96 þ\x19$\x89u×·\x95\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x89::\x00\x00\x00+\x00\x07\x06úú\x03\x04\x03\x03\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1DÍ\x00\x05\x00\x03\x02h2\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x12\x00\x00\x00" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad request version ('Áp`X²\\xad{µ\\x14C$\\x9aa¡t7¤ÅE\\x18"\\x98Ü\\x1aË&ÅÃ\\x13\\x04ìPFdr4XLzÝÛ\\x8as\\x05\\x19bÖËÊ')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03þ{Eób!Ú»\x88\x9a±ÏpVxbúdÞðÄ\x96Ud\x024Jð\x8df16 \x9bö&³MOÕt&\x97\x90\x05T½ä±\x91¯\x9eqë\x92ï#®Ò5i\x14¬ùM\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06iºº\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x17\x00\x00\x003\x04ï\x04ízz\x00\x01\x00\x11ì\x04ÀÁ(\x8eÊ(¬\x81Ö¹\x8dë\x93}\x8b\x19î<v¼R\x86)\x04!\x1d\x1a{r\x91#¼\x8by\x8e\x18Ã­\x15­U\x18\x1f@Ñ§\x1e¬Å E34¦(Ø\x95µÅâ²\x94¨r\x83ÌÆ\x1fåM\x1aua\x91;\x0dÁp`X²­{µ\x14C$\x9aa¡t7¤ÅE\x18"\x98Ü\x1aË&ÅÃ\x13\x04ìPFdr4XLzÝÛ\x8as\x05\x19bÖËÊ" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad request version ('z,&\\xadî\\x13i\\x00')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03\x13_\x93\x131õ³Ë\x8bë{\x01ì\x1bO\x84Ó,ÐÁ§BI\x06|a­\x9cÀ\x08E\x8d \x04©÷\x0dÁµä+;Ë \x8a§®ÊRÖ\x83Ä+\x12öA\x9f\x0bz,&­î\x13i\x00 " 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad request version ('îÞÖ%\\x00ð\\x9câ¢èZ!\\x9bO-èx\\x17ý2ê\\x96°hâ\\x01´{\\x88\\x7fû©´\\x9ecÒ')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03\x1dÏ1Ð"_Áò\x16%\x044D\x0d\x11ñôpM(?Ý\x86PPÉºqï\x85@U O\x17ïct£E\x86þz6Çç'ÅU°ÒôÜ\x15hG»\x00\x934Y"nw¨\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06©ÊÊ\x00\x00\x00-\x00\x02\x01\x01\x00\x17\x00\x00\x00\x0b\x00\x02\x01\x00þ\x0d\x01\x1a\x00\x00\x01\x00\x01\x9b\x00 \x8aÉH\x94Ð\x99,lZæ\x85\x0eî\x02±Ú\x9d\x8f±Ò\x83½{ÿ6_Î\x0cîÞÖ%\x00ð\x9câ¢èZ!\x9bO-èx\x17ý2ê\x96°hâ\x01´{\x88\x7fû©´\x9ecÒ" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad request version ('\\x8bóu¤\\x94\\x8e\\x9eÆa0w7\\x84s\\x93ú\\x10\\x875SDhçL/')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03Îá\x0f?¬,>²©l\x94Ø\x01På¼þc\x9fèÏí¢ý\x19CÞz\x1a\x90ß: #\x9f\x9dz@×²}\x0cÅ°_LË×e[:¸'zÜøê|$\x1a\x0c\x95tª»\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06i**\x00\x00\x00#\x00\x00\x003\x04ï\x04í::\x00\x01\x00\x11ì\x04Àk8\x16\x92R¹é\x83A1\x0c¨\x02§\x93æ7\x03aYmwòU\x95l\x99Õ\x91¾c\x06\x94³zÎ\x8f\x91`e$±=¹=­õª!\x90p¨\\fót-ûx¯aæÏø085É\x09y\x1c¾A´SÉ\x17´f\x9c\x86«:,|\x11X(9x\x91\\\x00X@#Kã\x94F\x11Rie[#{"\x9a60Ïô\x1d\x0cÇ\x1c\x16\x1b\x04òÚ\x82Í\x19¸°|PA7´¨¹\x7fá\x1bV\x81ôÆYIf®Ø\x9e\x0bÀÉ\x88£S°\x07±eCW6ú¢\x83\x93Æ\x06e \x17\\\x95_\x9c+\x0b\x16Jæ\x13x/\x99\x9e7´\x9b\x14KÀQ:jð\x00\x1d½ä4í&Z3\x8b'oEz^¸Á%÷\x84mi7\x91üj¸251\x81\x80n`#E#¤\x93ñv¬»FfÜ\x19a×\x85\x1f{TP8.\x81Â·3ó\x9f\x1eéP\x89°Á\x81l1ÔWH\x9dÈ\x11^\x80¤\x99@\x85@'`8èWW´Í\x1d$?Ü<jö\x96\x18'*Àyú\x18\x83\x8c2\x1a·w<a¦YuÊvùPåH\x1c\x8bóu¤\x94\x8e\x9eÆa0w7\x84s\x93ú\x10\x875SDhçL/" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad HTTP/0.9 request type ('\\x16\\x03\\x01\\x07\\x16\\x01\\x00\\x07\\x12\\x03\\x03\\x16Cµ.\\x9d')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03\x16Cµ.\x9d\x0d9R\x99ãN9ÙpÉ2Éäê¦HCTËk\x91qrÅ" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad request syntax ('\\x16\\x03\\x01\\x06Ö\\x01\\x00\\x06Ò\\x03\\x03Þs\\x19sÁ¹')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03Þs\x19sÁ¹" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad request version ('T"õ\\x9e')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03\x96\x1dØó\x15\x08\x9dk/e<\x8få))\x9e\x1eÑ«P\x0cT"õ\x9e" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:52] code 400, message Bad request version ('ô\\x11ºÖ\\x8ac\\x02T\\x87')
+192.168.219.1 - - [19/Mar/2026 01:29:52] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03<\x15\x0d\x88úþÞ¦§\x1c®W^åÔÇ§\x0e\x0cDßæÔ¦.KRØm7\\T TdÉyxQÅr\x17ÚøA\x9abË\x16Ê5¿ÿAQÿúgyä\x0e@\x01Â\x15\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x89ÚÚ\x00\x00\x00\x17\x00\x00\x00#\x00\x00ÿ\x01\x00\x01\x00\x003\x04ï\x04íºº\x00\x01\x00\x11ì\x04À±zK\x9fÉ\x0e]\x01\x15ß\x80É\x8f¥È:ÕO\x1eô\x11ºÖ\x8ac\x02T\x87" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:53] code 400, message Bad request version ('Ü\\x95¿Cï\\x14¶\\x9dã²\\x8b/Tr\\x00Î\\x89\\x02SÙ®')
+192.168.219.1 - - [19/Mar/2026 01:29:53] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03\x80\x9b\x11\\~B\x8fö®N\x09aVt»¾öÖû|Ö©\x9bå9\x1düpÒÇ?\x98 UèÀ\x81·RFk\x1f(o#v¶½ï\x07é\x93\x14:GvÊ\x0bD\x7fÊ¤%¡a\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06IJJ\x00\x00þ\x0d\x00º\x00\x00\x01\x00\x01Â\x00 £\x0cvù Ü\x95¿Cï\x14¶\x9dã²\x8b/Tr\x00Î\x89\x02SÙ®" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:53] code 400, message Bad request version ('¿{\\x8f)OOfø£h:Ë)°')
+192.168.219.1 - - [19/Mar/2026 01:29:53] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03ö\x19f"¡A,Ü\x81\x0em\x14B\x95DNh\x00=\x05IlR\x89a¡\x90*-·Uõ ÇÂ¨Aê\x98{_\x80\x83ëÖf\x81 ¿{\x8f)OOfø£h:Ë)°" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:53] code 400, message Bad request version ('Ýz[»ð\\x1b»\\x9b\\x11\\x00')
+192.168.219.1 - - [19/Mar/2026 01:29:53] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03\x89\x90~y÷\x1fÞíÜ\x15ûªÎáÜ!f\x06Ùêª4äp3q\x90üB-r\x09 \x01@fMC¤\x89¯=üÛ¤\x95\x02\x0céËe*Áw­\x0bÝz[»ð\x1b»\x9b\x11\x00 " 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:53] code 400, message Bad request version ('Z\\x86U')
+192.168.219.1 - - [19/Mar/2026 01:29:53] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03y\x1b¡\\<ú\x18#Û^ÞúðQ\x10î\x05\x89´¯ou-´Ç\x13H¨â.\x16© êN¦SV9\x8f\x92×\x1c¾îÏe\x11Ù\x8b\x18\x9büÔ\x16á\x11\x9f\x8fã\x06Ø\x11\x02\x8a\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06iZZ\x00\x00\x00\x12\x00\x00ÿ\x01\x00\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1þ\x0d\x00Ú\x00\x00\x01\x00\x01ç\x00 3y¸\x82R­¦ÅüÜÒ«Î\x84\x09\x9b/v\x92ì[ó®ß°wf°ûÌÅ8\x00°Ø¨ã,\x15"³Ä1_8hÁ\x93~¦V\x91Y~nµ*\x1e\x82'bÝC\x92Wñ\x82'/\x98>7ð\x8aé5ú@Ðçé\x11\x81JèeYý\x09â\x97\x05¿\x1fÞ#-Z*\x8b½\x99M\x17é\x18\x8dT4%)¶ý\x82I<­S4\x9a)K£B\x12\x194f¤¤ô\x8bTMÔA_\x82\x87ë1ïBÛ&[R\x14\x1dZ\x86U" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad request version ('\\x82{:Ó\\x05\\x01v\\x87×\\x17Ä«³|ê\\x82b\\x19±\\xadb\\x12>>áYÍµH|¸\\x82Á\\x1aµJwD')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03>­WÞºÁm­B³\x10ãé\x10sÜåÌá\x94\x02\x1a\x8d\x94{CB\x8bZu(k O\x98¬\x10·!ù\x92\x17Î\x81Éì\x10Ò¤ý\x99¥\x02ÜÖû[\x0b\x06Ô«Ô8*\x07\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x89\x1a\x1a\x00\x00\x00\x1b\x00\x03\x02\x00\x02þ\x0d\x00ú\x00\x00\x01\x00\x01\x83\x00 ­0\x1a£²Õ\x0dCL«uúw«7'0ÏåÂÌ\x14\x02ü}ÝkÔ±u\x15o\x00Ðæ#\x1f\x11\x1b\x86È\x9f[­\x0eP\x0bì¸sÁkª¿bÜ0ÄL\x0dù\x86\x15²"\x8fÓ³½à,gÓq\x8fóg\x90\x1bñ±z,ZØ¤é\x16Ûáèç¨\x00áÎ»Í\x96KO¾\x06aíWÔu[<Û\x8cYL©\x0f\x13\x84\x93\x98\x19àdU7üÓ\x97\x89\\8l(èÊ\x1b)6fÐi\x8a\x16¤º³Õà\x8a\x0fñyÄM÷\x8b\x80K\x85\x87Y6\x9c©eÊÂ»Íà\x9d\x80dN¹Xsg#\x92\x17ÛÞÀ3\x97^öO\x16ú,\x06;\x06ól+w}Ñß«»]\x91dMÔ$m²\x01ü5n ã\x15ãÖ\x96yò\x8ch\x91NÀ<3îLe\x91L^½>XB!ÿ\x01\x00\x01\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00#\x00\x00\x003\x04ï\x04í**\x00\x01\x00\x11ì\x04À2üÉ.±\x99\x94\x09^\x80\x89qáe)\\ë°}J\x17óp\x8dÜ \x9c\x81\x93\x7fÅCÁ\x86÷YÑHH\x97ÓO\x10l§\\áT{Ô¦\x10\x92w¼Á\x11^âzp4d\x0c\x82{:Ó\x05\x01v\x87×\x17Ä«³|ê\x82b\x19±­b\x12>>áYÍµH|¸\x82Á\x1aµJwD" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad request version ('Ó\\x82SîUwÐÂR¡\\x9b\\x7fáLÅw')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x03ñ\x15\x84ND\x09Î\x9d8­¢\x1c\x1cní\x00×\x92W½Í\x85÷It§\x93\x9f\x92ä.´ L{Á\x13\x87é/`\x8fW\x81À\x9a°úßÖDR£\x9d990\x06P\x94\x07Ùçp\x85\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06©\x8a\x8a\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03DÍ\x00\x05\x00\x03\x02h2\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04íºº\x00\x01\x00\x11ì\x04Às¼stá³(K\x88,\x8b\x03\x01tÎå\\$\x9e¼ÀÇ*\x12ÙU\x19\x19B|õ¦\x99ïG\x80\x85F\x0cÓ\x82SîUwÐÂR¡\x9b\x7fáLÅw" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad request version ('server.jio.is\\x00\\x05\\x00\\x05\\x01\\x00\\x00\\x00\\x00\\x00')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03"_KC;2Cä#Ó\x95M\x1a¬/\x961PÁÂys\\\x8a"\x93[\\Tk\x98ì b\x81ÃD­Æ\x0c(jdÇ\x98;\x97ZI\x13o¦;ÙäåÙ\x0et\x19æcìq*\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Iªª\x00\x00\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad request version ('\\x822"bÒL\\x10þX\\x03¢µ\\x87W\\x84G(p©')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03S´\x95\x91\x1f4ìWcjA§\x0b×\x0e½Ét.Ñ.wì£ì\x0ekv\x8e\x8cýé \x16éd\x12øz\x89Sªëpüs\x10Ç×_hõùÅÙ\x9bÑ«ÿ4ð\x81Eèh\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06iªª\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00#\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x17\x00\x00\x00\x12\x00\x00\x003\x04ï\x04íÊÊ\x00\x01\x00\x11ì\x04À¡Q%ZôfP<A?\x96CdÐ0\x8fP\x86\x876\x9eP\x98J£;Y²)¯n\x91\x9c#Fagq±\x0b\x88kgsÃdT\x98\x0eU©¡`\x1cJæ\x82\x9f\x19}\x17\x9bM^\x13\x98ÄÙÊHª,ºybÉ\x05;u©·äx\x8a*\x9a?\x95\x03\x80!\x94\x8d\x05\x06abì\x09T)`ÝpY\x0eÖf/\x98f X¼;1cÄºÊ\x1có±wëcÛC¬ù\x89B»\x10\x18\x86\x90%ÿFc\x8aÇ\x08\x12\x8a¼ý\x88ÆB\x11\x1bãf\x81\x13Tcð\x98~\x94\x848²³\x8a¹#·\x1fÁgwTb[ÊeÞ\x1c¨¾z\x15åHN+\x96¯Pë<-º\x84Q;d\x81°\x01\x87¬;b:43×\x8fâwV\x13Ñ|Ú\x06d8\x05~ü\x90SKµ½n\x8a_ipÈ\x85\x84@Ñì}ádÀá*b\x96p¥ÂW\x12\x08ð¡¹ªÏ_7fÑÐ\x9b\x0f ÀÒQË[c²[Ê·Ô\x1b.\x82,Â%#¦§\x1a\x90/ä\x92\x1c&$%g\x86\x91û5\x02\x11§¾ë¦Â5\x18Ýh¡\x0c\x1cWä\x05ÃxÛFÅtK2\x94\x17cF\x873ss»Æ4ë\x17Í\x19ù\x07\x12£}a²¹ð\x06\x077H\x027§\x0cµBdî\x88¸kR\x88&\x85¼\x9cìQ\x84:art§©UpÕh\x00¾¥;³\x19Àò\x89¹\x1f÷\x08¥µ\x95\x17+V\\Ò®\x88x&å0\x0bój\x1aðÂ@\x19\x85\x822"bÒL\x10þX\x03¢µ\x87W\x84G(p©" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad request version ('\\x00\\x02\\x01\\x00\\x003\\x04ï\\x04ízz\\x00\\x01\\x00\\x11ì\\x04À\\x9c,¾þZ]¹FFÈ\\x17')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03Ñ0}\x92U\x1a¡Ë[¿\x0cª¦«tPqºßM*^·\x1aæí\x95);®\x99\x8e f°®\x97RÄðµùÄ\x94/\x1ac\x956\x84\x02Á8\x03\x98 pox èÛ·ã\x89\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x89ZZ\x00\x00\x00#\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x17\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x1b\x00\x03\x02\x00\x02þ\x0d\x00ú\x00\x00\x01\x00\x01ã\x00 X^ÉÞ×*6r49±ùÏîÔSä×5oøzÇwÈIÌâ\x9b \x99t\x00Ð:\x1fÝüò\x8c>ô³\x08vVv\x84k\x17«\x94ËÞ\x0b¯Ú9\x88&E\x8a\x9bàÎé÷KiYý\x02¥.ôÃ²m\x06TÞ±\x85=IFo2%w«yç<Øh\x07\x8e,\x0dbh2ã¿1\x13\x10T\x07Ã27fà¡æ±ëry¿¨/¦)>Qxíµ¿®ÄiD\x9dRZ'iU_÷\x88kª^7û\x88ð z ïÀÇi3Î^î¿§{¤\x04\x1f³u\x06\x0dnÃ5\x1cKJsÉ\x95¹[/{\x00a\x18\x13BzD\x8fÔº]¥\x0f¤¢8Ø\x03\x1bèE¨´llO\x8d\x85\x97\x96\x1d¶MBbÈ-éG\x84\x0boyZ0ã4ÖM5¾ßwu\x82\x14\x00-\x00\x02\x01\x01\x00+\x00\x07\x06\x9a\x9a\x03\x04\x03\x03\x00\x0b\x00\x02\x01\x00\x003\x04ï\x04ízz\x00\x01\x00\x11ì\x04À\x9c,¾þZ]¹FFÈ\x17" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad request version ('server.jio.is\\x003\\x04ï\\x04íúú\\x00\\x01\\x00\\x11ì\\x04À=\\x04\\x88÷xe>QZY¶vO¨5\\x9dãqÄ\\x12')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03\x05¼³\x938\\¬~\x1c§÷\x8b½\x093öºg/IÊ\x0fvQéZ\x0cãUa\x943 Z\x9ebM9»\x10L\x92Á\x1cCvU6é_\x02\x89a;\x18\x8aE\x05Æ`¨+\x1bÌ³\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06ijj\x00\x00\x00-\x00\x02\x01\x01DÍ\x00\x05\x00\x03\x02h2\x00\x00\x00\x12\x00\x10\x00\x00\x0dserver.jio.is\x003\x04ï\x04íúú\x00\x01\x00\x11ì\x04À=\x04\x88÷xe>QZY¶vO¨5\x9dãqÄ\x12\x09" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad request syntax ('\\x16\\x03\\x01\\x06¶\\x01\\x00\\x06²\\x03\\x03%M?\\x9fú\\x0f·ZqY\\x8dR®Kd\\x12èÙc\\x03\\x90z')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03%M?\x9fú\x0f·ZqY\x8dR®Kd\x12èÙc\x03\x90z" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:54] code 400, message Bad HTTP/0.9 request type ('\\x16\\x03\\x01\\x06ö\\x01\\x00\\x06ò\\x03\\x03\\x99\\x93+þ"5\\x16*þ©³tF\\x11å@¦bÓÿÓê¾\\x9f')
+192.168.219.1 - - [19/Mar/2026 01:29:54] "\x16\x03\x01\x06ö\x01\x00\x06ò\x03\x03\x99\x93+þ"5\x16*þ©³tF\x11å@¦bÓÿÓê¾\x9f\x09\x1c¯K\x8c" 400 -
+192.168.219.1 - - [19/Mar/2026 01:29:58] "GET / HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:58] "GET /html5game/BB.js?cachebust=687647296 HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:58] "GET /inject.js HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound06.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound07.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound08.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound09.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound10.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Boss_sound11.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/boss01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/boss02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/boss03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/boss04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Bullet.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/boss05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Cancel.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Decide.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_06.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_07.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_08.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_09.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_10.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_101.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_102.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_103.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_11.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_115.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_116.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_117.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_118.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_119.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_12.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_13.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_14.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_15.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_157.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_155.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_158.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_159.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_16.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_17.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_18.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_19.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_51.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_52.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_53.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_55.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_54.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_57.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_56.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_58.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Dmg_59.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_00.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_05.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_06.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_07.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:29:59] "GET /html5game/Hit_08.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_09.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_10.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_12.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_11.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_13.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_14.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_16.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_15.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_17.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_18.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_19.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_20.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_21.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_23.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_22.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Hit_24.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/l01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Item.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Rec.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Reload_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Reload_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Reload_3.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/s1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/s2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/s3.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/s5.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/s4.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Save.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/sbomb.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Se_01.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Se_02.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Se_03.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Se_04.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Select.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/send.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Shot_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Shot_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Step_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Step_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Swing_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Swing_3.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Switch_1.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Swing_4.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Swing_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/Switch_2.ogg HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/BB_texture_0.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/BB_texture_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF8.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF9.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF12.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF13.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF14.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:00] "GET /html5game/particles/IDR_GIF15.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/stand_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/stand_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/stand_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/walk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/walk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/run_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/Chara/1/run_2.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/jumpU_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/crouch_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/jumpD_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_8.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_9.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Atk_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/AtkE_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/AtkE_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/AtkE_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/AtkE_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/AtkE_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/AtkE_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Damage_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Damage_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Damage_221.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Damage_222.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Damage_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Bind_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Bind_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Bind_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Bind_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Bind_6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Bind_7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_11n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_10n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_12n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_12.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_20.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_41.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_51.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_61.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_72.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_71.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_81.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_91.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_101.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_102.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_Cut_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/1/Death_Cut_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/stand_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/stand_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/walk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/stand_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/walk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/run_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/run_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/crouch_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/jumpU_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/jumpU_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/jumpD_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Atk_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Atk_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Atk_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Atk_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/AtkE_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/AtkE_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/AtkE_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/AtkE_J.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/AtkE_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Damage_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Damage_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Damage_221.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Damage_222.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Damage_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Bind_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Bind_3.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Bind_4.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Bind_5.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Bind_6.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Bind_7.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_10.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_11.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_12.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_10n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_11n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_12n.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_20.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_31.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_51.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_41.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_61.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_71.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_81.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_72.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_91.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_102.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_101.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_Cut_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/2/Death_Cut_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/01/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/0a/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/01/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/02/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/01/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/02/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/03/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/03/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/03/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/04/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/04/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/04/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/04/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/05/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/05/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/06/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/06/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/06/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/06/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/07/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/06/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/07/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/07/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/07/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/08/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/08/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/08/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/09/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/09/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/09/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/09/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/10/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/10/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/10/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/10/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/11/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/12/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/12/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/12/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/13/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/13/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/14/Stand.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/14/Atk_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/14/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/14/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/15/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/15/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/15/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/16/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/17/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/16/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/18/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/19/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/17/Bullet_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/19/Jump.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/19/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/20/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/20/Jump.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/20/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/21/Walk.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/21/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/21/Bind_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/22/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/22/01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/22/02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/22/03.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/22/04.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/22/05.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/23/01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/23/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/23/03.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/23/02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/23/04.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/23/05.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/24/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/03.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/51/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/04.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/07.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/06.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/25/05.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/52/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/53/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/52/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/55/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/54/Finish_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/54/Atk_1.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/55/Normal_2.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/57/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/56/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/58/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/60/Normal.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Enemy/58/Finish.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Point_Item.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Rec_Item.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Blood_01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Blood_02.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Save_01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Particle/00.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/Chara/Effect/Particle/22.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Particle/20.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Effect/Particle/21.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/Chara/Effect/Particle/23.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/Chara/Effect/Particle/25.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] code 404, message File not found
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/Chara/Effect/Particle/24.gif HTTP/1.1" 404 -
+192.168.219.1 - - [19/Mar/2026 01:30:01] "GET /html5game/pngs/Chara/Block/Block_01.png HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:03] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.219.1 - - [19/Mar/2026 01:30:08] code 400, message Bad request version ('<ï\\x18')
+192.168.219.1 - - [19/Mar/2026 01:30:08] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03Ó &³\x89±\x1c\x87{±SÑ¤ý\x98`\x02|ægÕ¬öFL£Ã?d²\x83æ <ï\x18" 400 -
+192.168.219.1 - - [19/Mar/2026 01:30:08] code 400, message Bad request syntax ('\\x16\\x03\\x01\\x06Ö\\x01\\x00\\x06Ò\\x03\\x03r\\x15x3\\x1a&<£ë.9[h»?J\\x0fóÔ\\x8aFÆ-©´·5ÔÈ')
+192.168.219.1 - - [19/Mar/2026 01:30:08] "\x16\x03\x01\x06Ö\x01\x00\x06Ò\x03\x03r\x15x3\x1a&<£ë.9[h»?J\x0fóÔ\x8aFÆ-©´·5ÔÈ" 400 -
+192.168.219.1 - - [19/Mar/2026 01:30:08] code 400, message Bad request version ('±{\\x0e¹µ=ù½\\x9af®²\\x9c:©\\x8ak\\x9bK\\x025\\x10|^ÀWõ\\x15T6°9\\x82\\x00\\x04©ã4|*¾¯')
+192.168.219.1 - - [19/Mar/2026 01:30:08] "\x16\x03\x01\x07\x16\x01\x00\x07\x12\x03\x031þ\x8cí¢ÿ\x8e\x15Ï\x14s,½Æø²@\x13Ylº^B^þjñ\x10A\x95kÇ ÌwäHÄýÝafX\x93\x9cm\x85\x1bpU\x97\x00/Ìûß`/\x81ò>\x0f?¸¦\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06©ªª\x00\x00\x00-\x00\x02\x01\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03ÿ\x01\x00\x01\x00\x003\x04ï\x04í**\x00\x01\x00\x11ì\x04ÀcU\x81\x09±{\x0e¹µ=ù½\x9af®²\x9c:©\x8ak\x9bK\x025\x10|^ÀWõ\x15T6°9\x82\x00\x04©ã4|*¾¯" 400 -
+192.168.219.1 - - [19/Mar/2026 01:30:08] code 400, message Bad request version ('\\x00\\x12\\x00\\x10\\x04\\x03\\x08\\x04\\x04\\x01\\x05\\x03\\x08\\x05\\x05\\x01\\x08\\x06\\x06\\x01\\x00')
+192.168.219.1 - - [19/Mar/2026 01:30:08] "\x16\x03\x01\x06¶\x01\x00\x06²\x03\x03¾À7\x9cÛ\x85ñ\x1bVü"6\x05\x0eÎ\x96\x0b5\x8b\x9eù\x19bL\x19\x8c\x16\x09°vÎ¾ ´S\x1aøØ¢×\x0bã'Ïé\x00þÔ_Æ\x99¿`\x93\x05i\x06`\x8b\x0b¡,s\x10Ô\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06I::\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00\x0b\x00\x02\x01\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00" 400 -
