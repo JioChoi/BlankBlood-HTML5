@@ -12,7 +12,7 @@
 
 This project is an HTML5 port of **Blank Blood**, a ryona indie game originally developed by **sakifox** using GameMaker 8. The port makes the game fully playable in any modern web browser without plugins or additional software.
 
-🎮 **[Play it now in your browser →](https://jiochoi.github.io/BlankBlood/html5-build/)**
+**[Play it now in your browser →](https://jiochoi.github.io/BlankBlood-HTML5/html5-build/)**
 
 ---
 
