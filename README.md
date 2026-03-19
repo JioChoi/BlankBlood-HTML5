@@ -117,8 +117,8 @@ The original goal of this project was to port **Crackle Cradle** to HTML5. Howev
 | Save / Health Regeneration | `Ctrl` + `Enter` |
 | Debug Mode                 | `Delete`         |
 | Change Character           | `Space`          |
-
 ---
+** Backspace for loading save points. I couldn't fix 'R' key for respawn.
 
 ## Browser Compatibility
 
